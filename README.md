@@ -6,14 +6,14 @@ Truce is a zero-sum social game, where everyone is against you, but you need oth
 
 
 ## Rules
-- [Full Rules]() - Full in-depth rules with examples
-- [Quick Rules]() - A quick summary for reference
-- [Example Round]() - An example round to see how the game works.
+- [Full Rules](rules.md) - Full in-depth rules with examples
+- [Quick Rules](quick_rules.md) - A quick summary for reference
+- [Example Round](example_round.md) - An example round to see how the game works.
 
 
 ## Remote Play
-I created Truce as a way to keep playing social games during the COVID-19 pandemic. This game can easily be played remotely, Check out the [Correspondence]() section in the Rules
+I created Truce as a way to keep playing social games during the COVID-19 pandemic. This game can easily be played remotely, Check out the [Correspondence](rules.md#correspondence) section in the Rules
 
 
 ## Suggestions or Feedback?
-If you have any suggestions or feedback, [Create an Issue]().
+If you have any suggestions or feedback, [Create an Issue](https://github.com/stolksdorf/truce/issues/new).
