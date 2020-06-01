@@ -21,10 +21,10 @@ Be the player with the most coins in their Supply at the end of the final round.
 
 
 ## How to Play
-1. At the start of each round, add 1 coin to **The Stash**.
-2. Each player, at the same time, secretly decides which action to take and it's target (if applicable).
+1. At the start of each round, add 1 coin to **The Stash**, a central pool of coins.
+2. Each player, at the same time and secretly, writes down which action to take and it's target (if applicable).
 3. Once all actions have been decided, or the round's deadline has been reached, all action are revealed at the same time.
-4. Resolve the selected actions (see below).
+4. Resolve the actions (see below).
 5. Move all coins from each player's Spoils to their Supply. Update the public ledger if you are using one.
 6. If it is not the final round, begin a new round.
 
