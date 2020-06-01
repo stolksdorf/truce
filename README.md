@@ -2,7 +2,7 @@
 
 > A game of subterfuge, co-operation, and above all, diplomacy
 
-Truce is a zero-sum social game, where everyone is against you, but you need other player's help to win. It's a social game inspired by the popular, but daunting, [Diplomacy](https://www.boardgamegeek.com/boardgame/483/diplomacy). Truce removes the pieces and map, simplifies the interactions, and adds a jockeying element of the taking the stash. This makes it much easier to teach and play remotely without sacrificing much of the scheming and backstabbing.
+Truce is a zero-sum social game, where everyone is against you, but you need other player's help to win. It's a social game inspired by the popular, but daunting, [Diplomacy](https://www.boardgamegeek.com/boardgame/483/diplomacy). Truce removes the pieces and map, simplifies the interactions, and adds a jockeying element of the taking the stash. This makes it easier to teach and play remotely without sacrificing the scheming and backstabbing.
 
 Doesn't require any print-outs or even pieces. Paper and pencil is all that's needed if playing locally, and can be played over SMS or IM, if playing remotely.
 
