@@ -1,11 +1,11 @@
 # Truce Rules
 
-Truce is a zero-sum social game, where everyone is against you, but you need other's help to make your actions are successful. It's a streamlined version of the popular, yet daunting, [Diplomacy](https://www.boardgamegeek.com/boardgame/483/diplomacy). Truce removes the pieces and map, simplifies the interactions, and adds a jockeying element of the taking the stash. This makes it much easier to teach, and is possible to play remotely via correspondence without sacrificing the scheming and backstabbing. 
+Truce is a zero-sum social game, where everyone is against you, but you need other's help to make your actions are successful. It's a streamlined version of the popular, but daunting, [Diplomacy](https://www.boardgamegeek.com/boardgame/483/diplomacy). Truce removes the pieces and map, simplifies the interactions, and adds a jockeying element of the taking the stash. This makes it much easier to teach, and is possible to play remotely via correspondence without sacrificing the scheming and backstabbing.
 
 ### What you need to Play
 - 3 to ∞ players (works best with 5+)
 - A method of secretly writing down each player's actions and revealing them at once. (Slips of paper + pens work great.)
-- A number of objects to present "coins", 3 per player plus 15 is good. If playing remotely, a public ledger works as well.
+- A number of objects to represent "coins", 3 per player plus 15 is good. If playing remotely, a public ledger works as well.
 
 
 ### How To Win
@@ -17,15 +17,16 @@ Be the player with the most coins in their Supply at the end of the final round.
   - We suggest between 8 and 15.
   - If you are playing by Correspondence we suggest doing 1-2 rounds per day, providing enough time in_between rounds for discussion and plotting.
 2. Give each player 3 coins. This is their **Supply**.
-3. Give each player a method of writing down their action. If playing remotely, decide on a medium.
+3. Give each player a method of writing down their action. If playing remotely, decide on a medium ( Text messaging works well).
 
 
 ## How to Play
 1. At the start of each round, add 1 coin to **The Stash**.
 2. Each player, at the same time, secretly decides which action to take and it's target (if applicable).
-3. Once all actions have been decided, or the round's deadline has been reached, all action are revealed at the same time and resolved (see below).
-4. Move all coins from each player's Spoils to their Supply. Update the public ledger if you are using one.
-5. If it is not the final round, begin a new round.
+3. Once all actions have been decided, or the round's deadline has been reached, all action are revealed at the same time.
+4. Resolve the selected actions (see below).
+5. Move all coins from each player's Spoils to their Supply. Update the public ledger if you are using one.
+6. If it is not the final round, begin a new round.
 
 
 ### Actions
@@ -51,11 +52,11 @@ Be the player with the most coins in their Supply at the end of the final round.
 - You can not select this action if you don't have any coins in your Supply
 
 #### Support
-> Enable another player's Attack or Defend to succeed
+> Enable another player's Attack or Defend action to succeed
 
 - Specify another player as your target when you pick this action
-- If your target also selected Support, your Support is passed along to their target, and so on. 
-- You don't know for sure which action you might be supporting
+- If your target also selected Support, your Support is passed along to their target.
+- You don't have influence over what action you are supporting, just the player.
 - If you have no coins, you may still select this action.
 
 
@@ -66,7 +67,7 @@ Be the player with the most coins in their Supply at the end of the final round.
 - If The Stash can not be split evenly, the remainder is removed from the game
   - Example: The Stash has 5 coins, 3 players select Loot, each player gets 1 coin into their Spoils and 2 coins are removed from the game
   - Example: The Stash has 2 coins, 3 players select Loot, each player would get no coins, and those 2 coins are removed from the game
-- If you Loot, any Attack against will automatically succeed (even if they have no supporters) and they will take all of the coins in your Spoils.
+- If you Loot, any Attack against will automatically succeed (even if they have no supporters) and they will take all of the coins your Spoils.
 - Supporters do not affect this action
 - You can not select this action if you don't have any coins in your Supply
 
@@ -98,13 +99,13 @@ Be the player with the most coins in their Supply at the end of the final round.
   - For each successful Attack, the attacker takes 1 coin from the target's Supply and adds it to their Spoils
     - If there is not enough coins in the target's Supply for each Attacker, the Attackers receive no coins and all coins from the target's Supply are removed from the game
   - If the target has any Spoils, they are split evenly among all successful attackers and added to their Spoils. Any remainder is removed from the game.
-    - Example: Barbara has 1 coin in her Supply and 3 coins in her Spoils. She is successfully attacked by both Agatha and Barney. Agatha and Barney would not receive any coins from her Supply (and her Supply is removed), but they would each get 1 coin from Barbara's Spoils. Barbara now has no coins in her Supply and 1 in her Spoils.
+    - Example: Barbara has 1 coin in her Supply and 3 coins in her Spoils. She is successfully attacked by both Agatha and Barney. Agatha and Barney would not receive any coins from her Supply (and her Supply is removed), but they would each get 1 coin from Barbara's Spoils (and 1 removed from the game). Barbara now has no coins in her Supply and 1 in her Spoils.
   - In the case of Attack chains, resolve the start of the chain first and make your way down, Example:
     1. Agatha gains 2 coins from The Stash into her Spoils by selecting Loot
     2. Barney successfully attacks her, not needing any support since she looted. He takes 1 coin from her Supply and her Spoils (2 coins) and adds it to his Spoils (now 3 coins)
     3. Charles successfully attacks Barney (Darcy supported Charles this round). He takes 1 coin from Barney's Supply and all of Barney's Spoils (3 coins) and adds it to his Spoils (now 4 coins)
     4. Agatha and Barney lost 1 coin each, and Charles gained 4 coins.
-  - In the case of Attack cycles, eg. Two players attacker eachother, the transfer of coins happens simultaneously.
+  - In the case of Attack cycles, eg. Two players attack eachother, the transfer of coins happens simultaneously.
     - Both Agatha, Barney successfully Attack eachother. Both would lose 1 coin from their Supply and add it to their Spoils at the same time.
 
 
@@ -113,16 +114,17 @@ Be the player with the most coins in their Supply at the end of the final round.
 
 - It is always public knowledge how many coins are in your Supply and what actions Players have taken in previous rounds
 - If you have no coins you _are not_ out of the game, however you may only select the Support or Pass action.
+  - Other players may gift you coins to allow you to select the other actions again.
 - Table-talk and private discussions are highly encouraged
 - If a Player does not, for any reason, submit an action in a timely fashion or their action is invalid/can not be interpreted, their action is defaulted to Pass for that round.
 - Unless you select the Attack or Defense Action, your Defense value and your Attack value is 0
 - Ties in Attack and Defense value go in favor of the Defender
 - A player may change their submitted action only if it is done before the actions are revealed.
-- You may gift coins from your Supply to other players during the round, before the actions are revealed. 
+- You may gift coins from your Supply to other players during the round, before the actions are revealed.
   - Gifted coins are put into that player's Spoils.
   - Coins can not be gifted from a player's Spoils, only from their Supply
   - This is a public action and all players are informed of it.
-  
+
 
 
 ### Tip & Tricks
@@ -130,28 +132,29 @@ Be the player with the most coins in their Supply at the end of the final round.
 - **Simplest Backstab**: If you convince someone to Support you, you can easily turn around and Attack them and win. Make sure you trust who you support.
 - **Support Chains**: Sometimes your Support may get transferred several times and end up helping someone you did not intend
 - **Ghost Players**: Players with no coins are still incredibly valuable as they can still support you in your actions. Don't burn bridges.
-- **Time to Strike**: Try to anticipate when players will go for The Stash as it grows. The more players that try and take it at the same time will result in less for everyone. 
+- **Time to Strike**: Try to anticipate when players will go for The Stash as it grows. The more players that try and take it at the same time will result in less for everyone.
 - **Stealing the Pot**: If you convince other players to support you in a big action, you know they aren't going to loot, that might be your opportunity to take it all for yourself.
-- **An Olive Branch**: You can always convince people to help you by promising that you will gift some of the Spoils of an Attack if they give you support. You are never bound to such agreements, but might pave the way to a strong alliance. 
+- **An Olive Branch**: You can always convince people to help you by promising that you will gift some of the Spoils of an Attack if they give you support. You are never bound to such agreements, but might pave the way to a strong alliance.
 
 
 
 
 
 ## Ways to Play
+
 ### In-Person
   - Truce can be played using slips of paper, pens, and random items to represent coins.
   - Each round, write your action on the slip of paper and reveal it once everyone has written their action.
   - Use player shields to ensure no one peeks while writing
-  - Try to play in a timely fashion. Use a timer if anyone is lagging the game.
+  - Try to play in a timely fashion. Use timed rounds if anyone is lagging the game.
   - Encourage table-talk and private discussions.
 
 ### Correspondence
   - Truce was designed to also be played over Correspondence, where the game takes place over several hours or days, and can be done completely remotely.
   - Rounds end at a specific time, instead of when everyone submits their actions
-  - If you are playing in a shared space, a slotted box where you can drop your action on a slip of paper works well. 
+  - If you are playing in a shared space, a slotted box where you can drop your action on a slip of paper works well.
   - If you are playing remotely, elect a 3rd party person to act as the Arbiter, that will receive each player's action via any communication means (SMS, IM, email, etc.) and will present all actions to the group when the round's deadline has ended.
-  - Keep a public ledger of who has how many coins that is easily accessible by all players.
+  - Keep a public ledger of who has how many coins that is easily accessible by all players. In a shared space, a whiteboard works well.
 
 
 ## Terminology
